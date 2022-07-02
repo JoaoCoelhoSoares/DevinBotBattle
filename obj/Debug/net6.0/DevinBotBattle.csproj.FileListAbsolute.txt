@@ -1,0 +1,15 @@
+C:\Users\Eric\Desktop\dot-net\s05\DevinBotBattle\bin\Debug\net6.0\DevinBotBattle.exe
+C:\Users\Eric\Desktop\dot-net\s05\DevinBotBattle\bin\Debug\net6.0\DevinBotBattle.deps.json
+C:\Users\Eric\Desktop\dot-net\s05\DevinBotBattle\bin\Debug\net6.0\DevinBotBattle.runtimeconfig.json
+C:\Users\Eric\Desktop\dot-net\s05\DevinBotBattle\bin\Debug\net6.0\DevinBotBattle.dll
+C:\Users\Eric\Desktop\dot-net\s05\DevinBotBattle\bin\Debug\net6.0\DevinBotBattle.pdb
+C:\Users\Eric\Desktop\dot-net\s05\DevinBotBattle\obj\Debug\net6.0\DevinBotBattle.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\dot-net\s05\DevinBotBattle\obj\Debug\net6.0\DevinBotBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Desktop\dot-net\s05\DevinBotBattle\obj\Debug\net6.0\DevinBotBattle.AssemblyInfoInputs.cache
+C:\Users\Eric\Desktop\dot-net\s05\DevinBotBattle\obj\Debug\net6.0\DevinBotBattle.AssemblyInfo.cs
+C:\Users\Eric\Desktop\dot-net\s05\DevinBotBattle\obj\Debug\net6.0\DevinBotBattle.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\dot-net\s05\DevinBotBattle\obj\Debug\net6.0\DevinBotBattle.dll
+C:\Users\Eric\Desktop\dot-net\s05\DevinBotBattle\obj\Debug\net6.0\refint\DevinBotBattle.dll
+C:\Users\Eric\Desktop\dot-net\s05\DevinBotBattle\obj\Debug\net6.0\DevinBotBattle.pdb
+C:\Users\Eric\Desktop\dot-net\s05\DevinBotBattle\obj\Debug\net6.0\DevinBotBattle.genruntimeconfig.cache
+C:\Users\Eric\Desktop\dot-net\s05\DevinBotBattle\obj\Debug\net6.0\ref\DevinBotBattle.dll
